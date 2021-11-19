@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1637179031 source:/home/khaled/Desktop/matrix/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+	<unistd.h>
+
